@@ -40,6 +40,9 @@
 - [适用于 Linux 的 Windows 子系统文档](https://docs.microsoft.com/zh-cn/windows/wsl/)
 - [设置 WSL 开发环境最佳做法](https://docs.microsoft.com/zh-cn/windows/wsl/setup/environment)
 
+### windows
+- [WIndows10按哪个快捷键把游戏窗口调成全屏？](https://zhidao.baidu.com/question/461165385173161725.html)
+
 ### Motto
 you dont give up, then there's no limitation. Eliud Kipchoge
 
@@ -48,3 +51,15 @@ you dont give up, then there's no limitation. Eliud Kipchoge
 你在使剑，是的，但是你的目标是杀人，直追你的目标，忘记手中长剑，才能使出最高的剑法... 而这世上又有多少剑客，拘泥于手中快剑而落入俗套，终究无法达到登峰造极的境界... (对，这是在讲编程的道理) [阿莱克西斯](https://www.zhihu.com/people/ming-zi-zong-shi-hen-nan-qi)
 
 这个世界上还存在这么一种可能，问题可以一点一点辨析清楚，工作可以一点一点循序完成，狭窄的自我会一点一点舒展，在看似封闭的世界结构中，真正的改变就这样发生。
+
+对别人不要有太大的期望，要尽量享受你拥有的，这就是规则。[我的天才女友](https://movie.douban.com/subject/28427782/)
+
+她的生活并不荒唐，因为她懂得快乐。她喜欢睡觉，她喜欢吃东西，这些行为高不高尚不重要，因为快乐使人崇高，不管快乐的原因是什么。
+
+在当好人跟坏人之前，你要先当快乐的人。这是非常重要的步骤。你当了快乐的人之后，你再去当好人还是坏人。我们千万不能把“好人” “坏人”的选项放在“快乐”的选项之前，因为有太多善良的好人，可是他的内心是很痛苦的。如果你是一个很痛苦的好人，你等于是坏人。
+
+没有一个真心诚意的交流，生活是空虚的。人生是荒谬的，而深层交流不能明讲，只有靠艺术，靠电影，靠这些虚幻的东西，假设的东西，在里面交流，你才会感觉没有那么孤单，没有那么无助。
+
+对一部电影的终极好评是什么？不是赞美，不是榜单，也不是高分和票房，只能是观众几度词不达意之后选择的沉默，因为它证明了在涌动的内心面前，秩序彻底的无能。是的，意识规训的不可能性，我们所感受到的挫败感，就是电影的成功。
+
+Empty your mind, be formless, shapeless, like water. If you put water into a cup, it becomes the cup. You put water into a bottle and it becomes the bottle. You put it in a teapot it becomes the teapot. Now, water can flow or it can crash. Be water my friend.
