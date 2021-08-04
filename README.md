@@ -12,6 +12,13 @@
 - [居里夫人，核武器和诺贝尔奖](http://www.yinwang.org/blog-cn/2021/07/27/marie-curie-nobel-prize)
 
 ### Git
+- [详细介绍git clone --depth=1的用法](https://blog.csdn.net/qq_43827595/article/details/104833980)
+
+### vim
+- [junegunn/vim-plug](https://github.com/junegunn/vim-plug)
+- [junegunn/fzf](https://github.com/junegunn/fzf)
+安装这个是为了安装`fzf.vim`
+- [junegunn/fzf.vim](https://github.com/junegunn/fzf.vim)
 
 ### Motto
 you dont give up, then there's no limitation. Eliud Kipchoge
