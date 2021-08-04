@@ -16,7 +16,7 @@
 
 ### vim
 - [junegunn/vim-plug](https://github.com/junegunn/vim-plug)
-- [junegunn/fzf](https://github.com/junegunn/fzf)
+- [junegunn/fzf](https://github.com/junegunn/fzf) <br>
 安装这个是为了安装`fzf.vim`
 - [junegunn/fzf.vim](https://github.com/junegunn/fzf.vim)
 
