@@ -30,8 +30,8 @@
 13. [crawler](#crawler)
 14. [Github](#github)
 
-[Motto](/bookmark/motto.md)
-[Poem](./poem.md)
+- [Motto](/bookmark/motto.md)
+- [Poem](./poem.md)
 
 ## 网站推荐
 - [那些遇到的问题](https://qa.1r1g.com/sf/)
