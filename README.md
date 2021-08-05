@@ -32,6 +32,7 @@
 
 - [Motto](/bookmark/motto.md)
 - [Poem](./poem.md)
+- [Movies](./movies.md)
 
 ## 网站推荐
 - [那些遇到的问题](https://qa.1r1g.com/sf/)
