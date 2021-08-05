@@ -131,3 +131,22 @@ you dont give up, then there's no limitation. Eliud Kipchoge
 对一部电影的终极好评是什么？不是赞美，不是榜单，也不是高分和票房，只能是观众几度词不达意之后选择的沉默，因为它证明了在涌动的内心面前，秩序彻底的无能。是的，意识规训的不可能性，我们所感受到的挫败感，就是电影的成功。
 
 Empty your mind, be formless, shapeless, like water. If you put water into a cup, it becomes the cup. You put water into a bottle and it becomes the bottle. You put it in a teapot it becomes the teapot. Now, water can flow or it can crash. Be water my friend.
+
+## Be yourself
+在整个人类史里，你不过是汪洋中一滴水，不管你是蚂蚁，还是大象，接受自己，找到属于自己的天地，每天做自己能力范围内喜欢的事情，愿你此生快乐，那你就什么都不缺。
+
+## action
+我们的阶层很闹实现跨越性的提升，可并不影响我们还在努力进步
+
+## 降低预期
+幸福的人生非常简单。幸福人生的第一法则是降低预期。这一点你很容易做到。如果你有不合理的预期，你这一生都会过得很痛苦。我非常擅长保持低预期，这对我很有帮助。同时，当你遭遇挫折时，如果你能坚忍地应对，而不是烦躁地让自己陷于各种不行之中，这将有所帮助。
+
+## 自私
+对别人不要有太大的期望，要尽量享受你拥有的，这就是规则
+
+## compare with yourself
+小女儿稍微有一点点表现不错，我就去肯定他。老师可能只是轻描淡写地表扬了一句，我也把这个肯定放大。她受到这些正向激励，虽然表现依然不如姐姐，可已经在向好的方向发展了，知道上进了。
+
+## it takes time
+学东西都是从非常差开始的，你可以从非常差，到比较差，再到一般般，挺好，最后到高手，顶尖高手。没关系的，你只要一直努力，有一天总会成为高手。他想办法让孩子体会到无论处于什么样的位置，都有机会通过努力把那个位置往前移。
+
