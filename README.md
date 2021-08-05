@@ -31,6 +31,7 @@
 14. [Github](#github)
 
 [Motto](/bookmark/motto.md)
+[Poem](./poem.md)
 
 ## 网站推荐
 - [那些遇到的问题](https://qa.1r1g.com/sf/)
@@ -92,6 +93,7 @@
 - [junegunn/fzf](https://github.com/junegunn/fzf) <br>
 安装这个是为了安装`fzf.vim`, 使用这个工具的主要目的是为了在vim中快速切换文件，在根目录下打开vim，使用这个插件就可以搜索切换文件，挺搞笑的。关于在vim中跳转文件，一般就是两种方式，第一种是通过侧边的目录树，另一种方式是通过搜索目录名然后跳转的方式。有些时候，在目录树中移动光标也是需要花费时间的，但是如果你能回忆起你要访问什么文件，它的文件名是什么，那么搜索的速度会很快。从记忆的角度来看，搜索是一个主动回忆的过程，浏览是一个被动回忆的过程。从我的使用经历来看，使用搜索的方式切换文件让我对项目中的文件名和目录更加有印象。
 - [junegunn/fzf.vim](https://github.com/junegunn/fzf.vim) 
+- [vim 宏的使用](https://www.cnblogs.com/xiaodi-js/p/6754834.html)
 ### markdown
 - [plasticboy/vim-markdown](https://github.com/plasticboy/vim-markdown)<br>
 安装这个插件的主要目的是因为这个插件里面包含了对 `markdown` 层级的折叠功能
@@ -161,5 +163,7 @@
 
 ## Github
 - [GitHub Markdown语法--图文详解](https://www.jianshu.com/p/8d7325f54ce4)
+- [guodongxiaren/README](https://github.com/guodongxiaren/README)<br>
+ README文件语法解读，即Github Flavored Markdown语法介绍
 
 
