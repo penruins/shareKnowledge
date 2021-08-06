@@ -1,6 +1,11 @@
 # shareKnowledge
 在这先特别说明，单纯讲计算机，我自觉无力发光。我的提高是借助着前辈们积累起来的经验而实现的，我并没有什么自身的创造。网络上的信息浩如烟海，如果没有方向的指引，很容易迷失，尤其是计算机。我想在这分享我学习计算机的过程中不同的技术积累下来好的连接和经验，希望能够帮助到你。这些积累和经验大部分都不是我的，我只是把它整理出来。
 
+## 常用网站
+NAME | NAME | NAME | NAME |
+---- | ---- | ---- | ---- |
+[知乎](https://www.zhihu.com/) | | | |
+
 NAME | NAME | NAME | NAME |
 ---- | ---- | ---- | ---- |
 [Motto](/bookmark/motto.md) | [Poem](./poem.md) | [Movies](./movies.md) | [Android](./bookmark/CS/android.md)
@@ -38,7 +43,6 @@ NAME | NAME | NAME | NAME |
 - [那些遇到的问题](https://qa.1r1g.com/sf/)
 
 ### 我常用的网站
-- [知乎](https://www.zhihu.com/)
 
 ## 博主推荐
 ### computer science
@@ -71,8 +75,45 @@ NAME | NAME | NAME | NAME |
 
 ## Git
 - [详细介绍git clone --depth=1的用法](https://blog.csdn.net/qq_43827595/article/details/104833980)
+- [Git 多用户配置](https://blog.csdn.net/yuanlaijike/article/details/95650625)
+- [Could not open a connection to your authentication agent](https://blog.csdn.net/argleary/article/details/100638560)
+- [Bad owner or permissions on .ssh/config的解决](https://blog.csdn.net/zcc_heu/article/details/79017606)
+- [Git 系列之--多账号切换](https://blog.csdn.net/weixin_34220963/article/details/92406805)
 
-# Database
+```sh
+Command line instructions
+You can also upload existing files from your computer using the instructions below.
+
+
+Git global setup
+git config --global user.name "刘翔37"
+git config --global user.email "liuxiang37@hikvision.com.cn"
+
+Create a new repository
+git clone git@iris.hikvision.com.cn:liuxiang37/shareknowledge.git
+cd shareknowledge
+touch README.md
+git add README.md
+git commit -m "add README"
+git push -u origin master
+
+Push an existing folder
+cd existing_folder
+git init
+git remote add origin git@iris.hikvision.com.cn:liuxiang37/shareknowledge.git
+git add .
+git commit -m "Initial commit"
+git push -u origin master
+
+Push an existing Git repository
+cd existing_repo
+git remote rename origin old-origin
+git remote add origin git@iris.hikvision.com.cn:liuxiang37/shareknowledge.git
+git push -u origin --all
+git push -u origin --tags 
+```
+
+## Database
 - [Navicat Premium 15 永久破解激活工具及安装教程](https://www.jianshu.com/p/523c132006aa)
 ### PostgreSQL
 - [Linux 上安装 PostgreSQL](https://www.runoob.com/postgresql/linux-install-postgresql.html)
@@ -87,6 +128,9 @@ NAME | NAME | NAME | NAME |
 
 ## Networking
 - [SpringBoot2.0集成WebSocket，实现后台向前端推送信息](https://blog.csdn.net/moshowgame/article/details/80275084)
+
+### Postman
+- [Postman 测试 WebSocket](https://www.cnblogs.com/dbf-/p/14848674.html)
 
 ## vim
 - [junegunn/vim-plug](https://github.com/junegunn/vim-plug)<br>
