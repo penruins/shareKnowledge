@@ -33,6 +33,7 @@
 - [Motto](/bookmark/motto.md)
 - [Poem](./poem.md)
 - [Movies](./movies.md)
+- [Android](./bookmark/CS/android.md)
 
 ## 网站推荐
 - [那些遇到的问题](https://qa.1r1g.com/sf/)
@@ -140,7 +141,6 @@
 ### Experience
 - [Windows里在同一个应用不同窗口之间切换的快捷键是什么（对应macOS中Command + ～）？ - 葛聂的回答 - 知乎](https://www.zhihu.com/question/301311007/answer/1635920019)
 
-## Android
 
 ## crawler
 - [一文带你了解爬虫](https://zhuanlan.zhihu.com/p/70633618)
