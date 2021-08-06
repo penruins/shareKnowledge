@@ -130,33 +130,17 @@
 - [如何在 Ubuntu 中检查你的 IP 地址](https://linux.cn/article-11308-1.html)
 ## windows
 - [WIndows10按哪个快捷键把游戏窗口调成全屏？](https://zhidao.baidu.com/question/461165385173161725.html)
+### tools
+- [Quicker -- 一种全新的Windows效率神器](https://sspai.com/post/47776)
+- [Quicker 官网](https://getquicker.net/)
+- [让你比微软更懂「视窗」，Windows 窗口管理增强工具：WindowTop](https://sspai.com/post/62058)
+- [还在用 cmd？不妨配置一个比 Mac 终端还美的 Windows Terminal](https://sspai.com/post/62167)
+- [新生代 Windows 终端：Windows Terminal 的全面自定义](https://sspai.com/post/59380)
+- [Windows 美化手册](https://sspai.com/topic/182)
+### Experience
+- [Windows里在同一个应用不同窗口之间切换的快捷键是什么（对应macOS中Command + ～）？ - 葛聂的回答 - 知乎](https://www.zhihu.com/question/301311007/answer/1635920019)
 
 ## Android
-- [Android Studio实现活动底部导航按钮](https://www.bilibili.com/video/BV1uX4y1G7FD)
-- [创建一个新闻APP 设计布局并从NewsAPI检索数据 Android studio par1](https://www.bilibili.com/video/BV1aK4y197jK)
-- [Android for OpenCV 调用 CameraAPI 1 实现人脸检测](https://xiang-yu.blog.csdn.net/article/details/89670831)
-- [Android：JNI 与 NDK到底是什么？（含实例教学)](https://blog.csdn.net/carson_ho/article/details/73250163)
-- [【Android】CvCameraViewListener2](http://www.voidcn.com/article/p-rwppgwzq-zw.html)
-- [YinhaoHe/Ball-Tracking-Android-App](https://github.com/YinhaoHe/Ball-Tracking-Android-App)
-- [Android 布局中 如何使控件居中](https://www.cnblogs.com/liangwenbo/p/4329034.html)
-- [Android最全UI库合集](https://blog.csdn.net/sinat_33585352/article/details/88825720)
-- [零基础学android，我的第一个APP android studio安卓开发教程](https://www.bilibili.com/video/BV14o4y197t5)
-- [RecyclerView超级万能适配器（多布局、head、foot、下拉刷新、上拉自动更多、滑动删除）](https://blog.csdn.net/confusing_awakening/article/details/78332215)
-- [android 仿今日头条_Android RecyclerView打造万能ViewPager TabLayout(仿今日头条)](https://blog.csdn.net/weixin_40002846/article/details/110572466)
-- [Android控件-TabLayout使用介绍](https://blog.csdn.net/csdnxia/article/details/105947804)
-- [Tablayout使用全解，一篇就够了](https://www.jianshu.com/p/fde38f367019)
-- [ReactiveX/RxAndroid](https://github.com/ReactiveX/RxAndroid)
-- [FragmentPagerAdapter&FragmentStatePageAdapter整理（二）](https://blog.csdn.net/u013762572/article/details/54809188)
-- [快2020年了，RecyclerView这么香，ListView还有必要用吗？](https://www.kaelli.com/40.html)
-- [ViewPager与适配器PagerAdapter搭配使用详解与源码解析](https://www.kaelli.com/30.html)
-- [viewpager的pagerAdapter的使用](https://blog.csdn.net/printlndeng/article/details/80015470)
-- [ViewPager使用详解(二):FragmentPagerAdapter](https://www.jianshu.com/p/d86e31dcc97b)
-- [ViewPager使用详解(一):PagerAdapter](https://www.jianshu.com/p/6fabf634d5bd)
-- [Android ActionBar和ToolBar的使用](https://www.jianshu.com/p/81d0bcb282cb)
-- [Android使用json和Http实现与服务器的简单交互](https://www.cnblogs.com/837634902why/p/10745866.html)
-- [Android 与 Http获取数据（与JSON解析）](https://blog.csdn.net/weixin_34331102/article/details/88199122)
-- [Android高版本联网失败报错:Cleartext HTTP traffic to xxx not permitted解决方法](https://blog.csdn.net/gengkui9897/article/details/82863966)
-- [String JSONObject JSONArray List<实体类>转换](https://www.cnblogs.com/ljangle/p/11047111.html)
 
 ## crawler
 - [一文带你了解爬虫](https://zhuanlan.zhihu.com/p/70633618)
