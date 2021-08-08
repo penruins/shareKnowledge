@@ -1,6 +1,8 @@
 # Git
 - [git.sh](./git.sh)
 
+---
+
 - [我在工作中是如何使用 git 的](https://zhuanlan.zhihu.com/p/391514379)
 	什么是 `rebase` 模式
 - [详细介绍git clone --depth=1的用法](https://blog.csdn.net/qq_43827595/article/details/104833980)
