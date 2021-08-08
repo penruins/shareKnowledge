@@ -8,7 +8,7 @@
 
 NAME | NAME | NAME | NAME | NAME |
 ---- | ---- | ---- | ---- | ---- |
-[Motto](/bookmark/motto.md) | [Poem](./poem.md) | [Movies](./movies.md) | [Android](./bookmark/CS/android.md) | [video cs learning]() |
+[Motto](/bookmark/motto.md) | [Poem](./poem.md) | [Movies](./movies.md) | [Android](./bookmark/CS/android.md) | [video cs learning](./video_cs_learning.md) |
 
 
  1. [网站推荐](#网站推荐)
