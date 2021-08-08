@@ -2,8 +2,8 @@
 在这先特别说明，单纯讲计算机，我自觉无力发光。我的提高是借助着前辈们积累起来的经验而实现的，我并没有什么自身的创造。网络上的信息浩如烟海，如果没有方向的指引，很容易迷失，尤其是计算机。我想在这分享我学习计算机的过程中不同的技术积累下来好的连接和经验，希望能够帮助到你。这些积累和经验大部分都不是我的，我只是把它整理出来。
 
 ## 常用网站
-NAME | NAME | NAME | NAME |
----- | ---- | ---- | ---- |
+ :octocat: | :earth_africa: | :four_leaf_clover: | :snail: | :clipboard: | :waning_crescent_moon: | :mushroom: | :shower: | :bicyclist: |
+---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
 [知乎](https://www.zhihu.com/) | [豆瓣](https://www.douban.com/) | [sspai](https://sspai.com/) | [bilibili](https://www.bilibili.com/) |
 
 NAME | NAME | NAME | NAME |
