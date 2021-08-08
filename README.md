@@ -73,9 +73,10 @@
 - [小猿大圣](https://hufangyun.com/)
 
 ### thinking
-:shower: | :bicyclist: | :shower: | :bicyclist: |
----- | ---- | ---- | ---- |
-[多罗西123](https://space.bilibili.com/375089647) | 你的好朋友多罗西，质量有保证滴好up，带你进入独特的精神世界。 | [Bon](https://bonxg.com) | 学习型博客 |
+- [多罗西123](https://space.bilibili.com/375089647)<br>
+	你的好朋友多罗西，质量有保证滴好up，带你进入独特的精神世界。
+- [Bon](https://bonxg.com)<br>
+	学习型博客
 
 
 ## 文章推荐
