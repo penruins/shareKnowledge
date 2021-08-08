@@ -1,17 +1,25 @@
 # shareKnowledge
 在这先特别说明，单纯讲计算机，我自觉无力发光。我的提高是借助着前辈们积累起来的经验而实现的，我并没有什么自身的创造。网络上的信息浩如烟海，如果没有方向的指引，很容易迷失，尤其是计算机。我想在这分享我学习计算机的过程中不同的技术积累下来好的连接和经验，希望能够帮助到你。这些积累和经验大部分都不是我的，我只是把它整理出来。
 
-## 常用网站
- :octocat: | :earth_africa: | :four_leaf_clover: | :snail: | :clipboard: | :waning_crescent_moon: | :mushroom: | :shower: | :bicyclist: |
----- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
-[知乎](https://www.zhihu.com/) | [豆瓣](https://www.douban.com/) | [sspai](https://sspai.com/) | [bilibili](https://www.bilibili.com/) | [BD影视](https://www.bd2020.com/) | [Google](https://www.google.com.hk/) | [wikipedia](https://zh.wikipedia.org/wiki/Wikipedia:首页) | [博客园](https://www.cnblogs.com) | [威锋论坛](https://www.feng.com/forum/)
-
-NAME | NAME | NAME | NAME | NAME | NAME |
----- | ---- | ---- | ---- | ---- | ---- |
-[Motto](/bookmark/motto.md) | [Poem](./poem.md) | [Movies](./movies.md) | [Android](./bookmark/CS/android.md) | [video cs learning](./video_cs_learning.md) | [videos](./videos.md) |
 
 - [just copy writing](./just_copy_writing.md)
+- [Motto](/bookmark/motto.md)
+- [Poem](./poem.md)
+- [Movies](./movies.md)
+- [Android](./bookmark/CS/android.md)
+- [video cs learning](./video_cs_learning.md)
+- [videos](./videos.md)
 
+## 常用网站
+- [知乎](https://www.zhihu.com/)
+- [豆瓣](https://www.douban.com/)
+- [sspai](https://sspai.com/)
+- [bilibili](https://www.bilibili.com/)
+- [BD影视](https://www.bd2020.com/)
+- [Google](https://www.google.com.hk/)
+- [wikipedia](https://zh.wikipedia.org/wiki/Wikipedia:首页)
+- [博客园](https://www.cnblogs.com)
+- [威锋论坛](https://www.feng.com/forum/)
 
  1. [网站推荐](#网站推荐)
     * [我常用的网站](#我常用的网站)
@@ -47,11 +55,11 @@ NAME | NAME | NAME | NAME | NAME | NAME |
 ### Resource
 
 #### Books
-:shower: | :bicyclist: | :shower: | :bicyclist: |
----- | ---- | ---- | ---- |
-[jiumo](https://www.jiumodiary.com)| | [lorefree](https://ebook2.lorefree.com) |   |
-[gutenberg](https://www.gutenberg.org) |   | [无产阶级图书馆](https://sites.google.com/site/proletariatlibrary/home/zhongwenwenxianliebiao) |   |
-[java 菜市场](https://www.javaweb.shop) |   |   |   |
+- [jiumo](https://www.jiumodiary.com)
+- [lorefree](https://ebook2.lorefree.com)
+- [gutenberg](https://www.gutenberg.org)
+- [无产阶级图书馆](https://sites.google.com/site/proletariatlibrary/home/zhongwenwenxianliebiao)
+[java 菜市场](https://www.javaweb.shop)
 
 #### Movies
 [磁力熊](https://www.cilixiong.com/) |   | [BD影视](https://www.bd2020.com/) |   |
@@ -89,11 +97,14 @@ NAME | NAME | NAME | NAME | NAME | NAME |
 - [RabbitMQ系列（一）RabbitMQ在Ubuntu上的环境搭建](https://www.cnblogs.com/vipstone/p/9184314.html)
 
 ## Git
+- [我在工作中是如何使用 git 的](https://zhuanlan.zhihu.com/p/391514379)
+	什么是 `rebase` 模式
 - [详细介绍git clone --depth=1的用法](https://blog.csdn.net/qq_43827595/article/details/104833980)
 - [Git 多用户配置](https://blog.csdn.net/yuanlaijike/article/details/95650625)
 - [Could not open a connection to your authentication agent](https://blog.csdn.net/argleary/article/details/100638560)
 - [Bad owner or permissions on .ssh/config的解决](https://blog.csdn.net/zcc_heu/article/details/79017606)
 - [Git 系列之--多账号切换](https://blog.csdn.net/weixin_34220963/article/details/92406805)
+- [程序员必学必会- Git 设置多个账号](https://www.jianshu.com/p/cacf91579268)
 
 ```sh
 Command line instructions

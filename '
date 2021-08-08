@@ -1,0 +1,617 @@
+" iabbrev @@ lx_tdcq_king@icloud.com
+" iabbrev [[ []()
+iabbrev <a <a href="" target="_blank"></a>
+
+iabbrev <l <li></li>
+iabbrev <o <ol></ol>
+iabbrev <p <pre></pre>
+
+
+
+let mapleader=" "
+nnoremap <leader>" viw<esc>a"<esc>bi"<esc>lel
+nnoremap <leader>ev :tabnew $MYVIMRC<cr>
+nnoremap <leader>sv :source $MYVIMRC<cr>
+
+nnoremap 1<CR> :VimwikiVSplitLink<cr>
+nnoremap 2<CR> :VimwikiSplitLink<cr>
+
+"set foldmethod=indent "开启折叠
+set nocompatible              " be iMproved, required
+syntax on
+filetype off                  "required
+filetype plugin on
+
+
+set number
+set relativenumber
+
+set guifont=Monospace\ 16
+
+" set the runtime path to include Vundle and initialize
+set rtp+=~/.vim/bundle/Vundle.vim
+call vundle#begin()
+
+" let Vundle manage Vundle, required
+" vim-plug 加入插件 defx, defx-icons
+"Plugin 'wannesm/wmgraphviz.vim'
+"Plugin 'liuchengxu/graphviz.vim'
+"
+
+Plugin 'vimwiki/vimwiki'
+
+
+Plugin 'preservim/nerdtree'
+Plugin 'godlygeek/tabular'
+Plugin 'plasticboy/vim-markdown'
+"Plugin 'mzlogin/vim-markdown-toc'
+Plugin 'majutsushi/tagbar'
+"Plugin 'jszakmeister/markdown2ctags'
+Plugin 'xolox/vim-misc'
+Plugin 'xolox/vim-easytags'
+"Plugin 'vim-airline/vim-airline'
+"Plugin 'vim-airline/vim-airline-themes'
+Plugin 'connorholyday/vim-snazzy'
+Plugin 'artur-shaik/vim-javacomplete2'
+Plugin 'liuchengxu/space-vim-theme'
+Plugin 'neoclide/coc.nvim', {'branch': 'release'}
+"Plugin 'scrooloose/nerdcommenter'
+
+"fzf-vim 模糊搜索工具
+Plugin 'junegunn/fzf', { 'do': { -> fzf#install() } }
+Plugin 'junegunn/fzf.vim'
+
+"easymotion 快速移动插件
+Plugin 'easymotion/vim-easymotion'
+
+" 缩进线
+Plugin 'Yggdroot/indentLine'
+
+Plugin 'rakr/vim-one'
+Plugin 'srcery-colors/srcery-vim'
+
+Plugin 'preservim/nerdcommenter'
+
+
+Plugin 'gcmt/wildfire.vim'
+
+Plugin 'iamcco/markdown-preview.nvim', { 'do': 'cd app && yarn install'  }
+Plugin 'dracula/vim', { 'name': 'dracula' }
+
+
+
+"Plugin 'table-mode'
+Plugin 'dhruvasagar/vim-table-mode'
+" All of your Plugins must be added before the following line
+call vundle#end()            " required
+filetype plugin indent on    " required
+
+
+
+
+" Add support for markdown files in tagbar.
+let g:tagbar_type_markdown = {
+    \ 'ctagstype': 'markdown',
+    \ 'ctagsbin' : '/Users/penruins/Kit/markdown2ctags-master/markdown2ctags.py',
+    \ 'ctagsargs' : '-f - --sort=yes --sro=»',
+    \ 'kinds' : [
+        \ 's:sections',
+        \ 'i:images'
+    \ ],
+    \ 'sro' : '»',
+    \ 'kind2scope' : {
+        \ 's' : 'section',
+    \ },
+    \ 'sort': 0,
+\ }
+
+"colorscheme dracula
+
+" _____ _
+"|_   _| |__   ___ _ __ ___   ___
+"  | | | '_ \ / _ \ '_ ` _ \ / _ \
+"  | | | | | |  __/ | | | | |  __/
+"  |_| |_| |_|\___|_| |_| |_|\___|
+"color shine
+"color morning
+"color evening
+"colorscheme ron
+
+"colorscheme snazzy
+
+
+"colorscheme space_vim_theme
+"dark or light
+"set background=light
+"set background=dark
+
+"colorscheme one
+"set background=dark " for the dark version
+"set background=light " for the light version
+
+"set relativenumber
+
+"colorscheme srcery
+
+"map S :w<CR>
+"map Q :q<CR>
+
+
+"call plug#begin('~/.vim/plugged')
+
+"Plug 'vim-airline/vim-airline'
+
+"call plug#end()
+
+
+"set number
+map sh :vsplit<CR>
+map sv :split<CR>
+
+
+map <LEADER>k <C-w>k
+map <LEADER>j <C-w>j
+map <LEADER>h <C-w>h
+map <LEADER>l <C-w>l
+
+
+
+map <up> :res +5<CR>
+map <down> :res -5<CR>
+map <left> :vertical resize-5<CR>
+map <right> :vertical resize+5<CR>
+
+set wrap
+
+
+
+map gu <C-u>
+map gd <C-d>
+ 
+"set tabstop=4
+" tabstop 表示一个tab显示出来是多少个空格的长度，默认是8
+" softtabstop
+" 表示在编辑模式的时候按退格键的时候退回缩进的长度，当使用expandtab时特别有用
+" shiftwidth表示每一级缩进的长度，一般设置成和softtabstop一样
+" 当设置成expandtab时，缩进用空格来表示，noexpandtab则是用制表符表示一个缩进
+" ts是tabstop的缩写，设置tab宽为4个空格
+"set tabstop=4
+"set softtabstop=4
+"set shiftwidth=4
+"set noexpandtab / expandtab
+set autoindent
+set shiftwidth=2
+set ts=2
+
+
+
+"inoremap ' ''<ESC>i
+"inoremap " ""<ESC>i
+"inoremap ( ()<ESC>i
+"inoremap [ []<ESC>i
+"inoremap { {}<ESC>i
+"set cursorline " 高亮光标所在的行
+"set cursorcolumn " 高亮光标所在的列
+
+
+
+
+
+
+
+
+
+
+
+
+
+  "____                           _
+ "/ ___|___   ___      _ ____   _(_)_ __ ___
+"| |   / _ \ / __|____| '_ \ \ / / | '_ ` _ \
+"| |__| (_) | (_|_____| | | \ V /| | | | | | |
+ "\____\___/ \___|    |_| |_|\_/ |_|_| |_| |_|
+  
+" Having longer updatetime (default is 4000 ms = 4 s) leads to noticeable
+" delays and poor user experience.
+set updatetime=1000
+"autocmd FileType java setlocal omnifunc=javacomplete#Complete
+set backspace=2
+let g:coc_global_extensions = ['coc-json', 'coc-vimlsp']
+
+inoremap <silent><expr> <TAB>
+      \ pumvisible() ? "\<C-n>" :
+      \ <SID>check_back_space() ? "\<TAB>" :
+      \ coc#refresh()
+inoremap <expr><S-TAB> pumvisible() ? "\<C-p>" : "\<C-h>"
+
+function! s:check_back_space() abort
+  let col = col('.') - 1
+  return !col || getline('.')[col - 1]  =~# '\s'
+endfunction
+" Use <c-space> to trigger completion.
+inoremap <silent><expr> <c-@> coc#refresh()
+" Use `[g` and `]g` to navigate diagnostics
+" Use `:CocDiagnostics` to get all diagnostics of current buffer in location list.
+nmap <silent> [g <Plug>(coc-diagnostic-prev)
+nmap <silent> ]g <Plug>(coc-diagnostic-next)
+
+" GoTo code navigation.
+nmap <silent> gd <Plug>(coc-definition)
+nmap <silent> gy <Plug>(coc-type-definition)
+nmap <silent> gi <Plug>(coc-implementation)
+nmap <silent> gr <Plug>(coc-references)
+
+"Use <cr> to confirm completion
+inoremap <expr> <cr> pumvisible() ? "\<C-y>" : "\<C-g>u\<CR>"
+"Close the preview window when completion is done.
+autocmd! CompleteDone * if pumvisible() == 0 | pclose | endif
+" Use leader+d to show documentation in preview window.
+nnoremap <silent> D :call <SID>show_documentation()<CR>
+
+function! s:show_documentation()
+  if (index(['vim','help'], &filetype) >= 0)
+    execute 'h '.expand('<cword>')
+  else
+    call CocAction('doHover')
+  endif
+endfunction
+" Highlight the symbol and its references when holding the cursor.
+"autocmd CursorHold * silent call CocActionAsync('highlight')
+
+
+
+
+ "__  __
+"|  \/  | _____   _____
+"| |\/| |/ _ \ \ / / _ \
+"| |  | | (_) \ V /  __/
+"|_|  |_|\___/ \_/ \___|
+
+"在输入模式下方向的移动
+inoremap <C-l> <Right>
+inoremap <C-h> <Left>
+inoremap <C-k> <Up>
+inoremap <C-j> <Down>
+"输入模式下在下面插入新的一行
+"inoremap <leader><CR> <ESC>o
+"in the normal mode, the mapping of 'insert the new line in the next line'
+"nnoremap <CR> o<ESC>
+"nnoremap <Space><CR> O<ESC>i<TAB>, 
+"普通模式下光标的移动
+map K 5k
+map J 5j
+map H 5h
+map L 5l
+nmap . 10j
+nmap , 10k
+"在输入模式下将光标聚焦到屏幕中央
+"inoremap <C-g> <ESC>zzi
+	
+"使光标始终处于屏幕中央
+"noremap <C-j> gjzz
+"noremap <C-k> gkzz
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+"in the normal mode, the mapping of TAB
+" in the normal mode, click TAB and SHIFT+TAB
+nmap = >>
+nmap - <<
+"press F5 to insert the date
+nnoremap TT <ESC>"=strftime("%F")<CR>gP
+ 
+" _              _
+"| |_ __ _  __ _| |__   __ _ _ __
+"| __/ _` |/ _` | '_ \ / _` | '__|
+"| || (_| | (_| | |_) | (_| | |
+" \__\__,_|\__, |_.__/ \__,_|_|
+"          |___/
+nnoremap <silent> tt :TagbarToggle<CR>
+"nmap <silent> <F9> :TagbarToggle<CR>        "按F9即可打开tagbar界面
+let g:tagbar_ctags_bin = 'ctags'            "tagbar以来ctags插件
+"let g:tagbar_left = 1                       "让tagbar在页面左侧显示，默认右边
+let g:tagbar_width = 50                     "设置tagbar的宽度为30列，默认40
+let g:tagbar_autofocus = 1                  "这是tagbar一打开，光标即在tagbar页面内，默认在vim打开的文件内
+let g:tagbar_sort = 0                       "设置标签不排序，默认排序
+"References
+"tagbar 使用简介
+"https://blog.csdn.net/yangqing99801/article/details/50729849
+
+
+
+
+
+ "__  __            _       _
+"|  \/  | __ _ _ __| | ____| | _____      ___ __
+"| |\/| |/ _` | '__| |/ / _` |/ _ \ \ /\ / / '_ \
+"| |  | | (_| | |  |   < (_| | (_) \ V  V /| | | |
+"|_|  |_|\__,_|_|  |_|\_\__,_|\___/ \_/\_/ |_| |_|
+
+" Markdown的折叠
+" https://stackoverflow.com/questions/3828606/vim-markdown-folding
+" function! MarkdownLevel()
+		"let curline = getline(v:lnum)
+		"if curline =~ '^# .*$'
+				"return ">1"
+		"endif
+		"if curline =~ '^## .*$'
+				"return ">2"
+		"endif
+		"if curline =~ '^### .*$'
+				"return ">3"
+		"endif
+		"if curline =~ '^#### .*$'
+				"return ">4"
+		"endif
+		"if curline =~ '^##### .*$'
+				"return ">5"
+		"endif
+		"if curline =~ '^###### .*$'
+				"return ">6"
+		"endif
+		"return "="
+"endfunction
+
+function! MarkdownFoldText()
+		let foldsize = v:foldend - v:foldstart
+		return getline(v:foldstart).' ('.foldsize.' lines)'
+endfunction
+
+au BufEnter *.md setlocal foldexpr=MarkdownLevel()
+au BufEnter *.md setlocal foldmethod=expr
+au BufEnter *.md setlocal foldtext=MarkdownFoldText()
+
+
+"禁用vim-markdown的折叠功能
+"let g:vim_markdown_folding_disabled = 0
+"enable conceal for italic, bold, inline-code and link text (disabled by default with 0)
+"let g:markdown_enable_conceal = 1
+
+"let g:vim_markdown_no_extensions_in_markdown = 1
+let g:vim_markdown_edit_url_in = 'hsplit'
+map <C-n> :NERDTreeToggle<CR>
+let g:vim_markdown_autowrite = 1
+
+let g:vim_markdown_follow_anchor = 1
+"let g:vim_markdown_anchorexpr = "'<<'.v:anchor.'>>'"
+
+
+
+"与系统剪贴板寄存器共用
+nnoremap dd "+dd
+nnoremap yy "+yy
+nnoremap p "+p
+vnoremap y "+y
+vnoremap d "+d
+nnoremap p "+p
+
+
+let g:vim_markdown_conceal = 0
+
+
+
+
+
+
+
+
+
+
+"coc-translator
+" popup
+nmap <Leader>t <Plug>(coc-translator-p)
+vmap <Leader>t <Plug>(coc-translator-pv)
+" echo
+nmap <Leader>e <Plug>(coc-translator-e)
+vmap <Leader>e <Plug>(coc-translator-ev)
+" replace
+nmap <Leader>r <Plug>(coc-translator-r)
+vmap <Leader>r <Plug>(coc-translator-rv)
+
+
+
+
+
+"vim-airline 顶部tab效果打开
+let g:airline#extensions#tabline#enabled = 1
+
+autocmd CursorHold * silent call CocActionAsync('highlight')
+"set termguicolors
+
+
+
+" easymotion
+nmap ss <Plug>(easymotion-s2)
+
+
+" vim写markdown遇到的问题
+" https://blog.csdn.net/HappyCodeFly/article/details/87438877
+let g:indentLine_concealcursor = ''
+
+
+nmap th :tabp<CR>
+nmap tl :tabn<CR>
+nmap tn :tabnew<CR>
+
+"airline
+"安装字体后必须设置
+"let g:airline_powerline_fonts = 1
+"关闭tabline
+"let g:airline#extensions#tabline#enabled = 0
+"let g:airline#extensions#tabline#buffer_nr_show = 1
+"if !exists('g:airline_symbols')
+"  let g:airline_symbols = {}
+"endif
+"unicode symbols
+"let g:airline_left_sep = '▶'
+"let g:airline_left_alt_sep = '❯'
+"let g:airline_right_sep = '◀'
+"let g:airline_right_alt_sep = '❮'
+"let g:airline_symbols.linenr = '¶'
+"let g:airline_symbols.branch = '⎇'
+
+
+
+nmap ff :Files<CR>
+
+
+nmap <space>e :CocCommand explorer<CR>
+
+
+
+nnoremap r za
+
+"set foldmethod=manual
+
+
+
+
+
+
+" set to 1, nvim will open the preview window after entering the markdown buffer
+" default: 0
+let g:mkdp_auto_start = 0
+
+" set to 1, the nvim will auto close current preview window when change
+" from markdown buffer to another buffer
+" default: 1
+let g:mkdp_auto_close = 1
+
+" set to 1, the vim will refresh markdown when save the buffer or
+" leave from insert mode, default 0 is auto refresh markdown as you edit or
+" move the cursor
+" default: 0
+let g:mkdp_refresh_slow = 0
+
+" set to 1, the MarkdownPreview command can be use for all files,
+" by default it can be use in markdown file
+" default: 0
+let g:mkdp_command_for_global = 0
+
+" set to 1, preview server available to others in your network
+" by default, the server listens on localhost (127.0.0.1)
+" default: 0
+let g:mkdp_open_to_the_world = 0
+
+" use custom IP to open preview page
+" useful when you work in remote vim and preview on local browser
+" more detail see: https://github.com/iamcco/markdown-preview.nvim/pull/9
+" default empty
+let g:mkdp_open_ip = ''
+
+" specify browser to open preview page
+" default: ''
+let g:mkdp_browser = ''
+
+" set to 1, echo preview page url in command line when open preview page
+" default is 0
+let g:mkdp_echo_preview_url = 0
+
+" a custom vim function name to open preview page
+" this function will receive url as param
+" default is empty
+let g:mkdp_browserfunc = ''
+
+" options for markdown render
+" mkit: markdown-it options for render
+" katex: katex options for math
+" uml: markdown-it-plantuml options
+" maid: mermaid options
+" disable_sync_scroll: if disable sync scroll, default 0
+" sync_scroll_type: 'middle', 'top' or 'relative', default value is 'middle'
+"   middle: mean the cursor position alway show at the middle of the preview page
+"   top: mean the vim top viewport alway show at the top of the preview page
+"   relative: mean the cursor position alway show at the relative positon of the preview page
+" hide_yaml_meta: if hide yaml metadata, default is 1
+" sequence_diagrams: js-sequence-diagrams options
+" content_editable: if enable content editable for preview page, default: v:false
+" disable_filename: if disable filename header for preview page, default: 0
+let g:mkdp_preview_options = {
+    \ 'mkit': {},
+    \ 'katex': {},
+    \ 'uml': {},
+    \ 'maid': {},
+    \ 'disable_sync_scroll': 0,
+    \ 'sync_scroll_type': 'middle',
+    \ 'hide_yaml_meta': 1,
+    \ 'sequence_diagrams': {},
+    \ 'flowchart_diagrams': {},
+    \ 'content_editable': v:false,
+    \ 'disable_filename': 0
+    \ }
+
+" use a custom markdown style must be absolute path
+" like '/Users/username/markdown.css' or expand('~/markdown.css')
+let g:mkdp_markdown_css = ''
+
+" use a custom highlight style must absolute path
+" like '/Users/username/highlight.css' or expand('~/highlight.css')
+let g:mkdp_highlight_css = ''
+
+" use a custom port to start server or random for empty
+let g:mkdp_port = ''
+
+" preview page title
+" ${name} will be replace with the file name
+let g:mkdp_page_title = '「${name}」'
+
+" recognized filetypes
+" these filetypes will have MarkdownPreview... commands
+let g:mkdp_filetypes = ['markdown']
+
+" normal/insert
+"<Plug>MarkdownPreview
+"<Plug>MarkdownPreviewStop
+"<Plug>MarkdownPreviewToggle
+
+" example
+let g:mkdp_path_to_chrome = "open -a Safari"
+let g:mkdp_auto_close=0
+nmap <C-s> <Plug>MarkdownPreview
+nmap <M-s> <Plug>MarkdownPreviewStop
+nmap <C-p> <Plug>MarkdownPreviewToggle
+
+
+
+" 背景透明设置
+"hi Normal ctermfg=252 ctermbg=none
+hi CocHighlightText ctermfg=252 ctermbg=none
+"hi SignColumn term=standout ctermfg=4 ctermbg=248 guifg=DarkBlue
+"hi CursorColumn term=standout ctermfg=4 ctermbg=248 guifg=DarkBlue
+"hi SignColumn term=standout ctermfg=4 guifg=DarkBlue
+hi CursorColumn term=standout ctermfg=4 guifg=DarkBlue
+"hi SignColumn term=standout ctermfg=4 ctermbg=248 guifg=DarkBlue guibg=Grey
+hi SignColumn term=standout ctermfg=4 ctermbg=248 guifg=DarkBlue
+
+
+
+"let g:table_mode_corner = '|'
+"let g:table_mode_border=0
+"let g:table_mode_fillchar=' '
+
+"function! s:isAtStartOfLine(mapping)
+  "let text_before_cursor = getline('.')[0 : col('.')-1]
+  "let mapping_pattern = '\V' . escape(a:mapping, '\')
+  "let comment_pattern = '\V' . escape(substitute(&l:commentstring, '%s.*$', '', ''), '\')
+  "return (text_before_cursor =~? '^' . ('\v(' . comment_pattern . '\v)?') . '\s*\v' . mapping_pattern . '\v$')
+"endfunction
+
+"inoreabbrev <expr> <bar><bar>
+          "\ <SID>isAtStartOfLine('\|\|') ?
+          "\ '<c-o>:TableModeEnable<cr><bar><space><bar><left><left>' : '<bar><bar>'
+"inoreabbrev <expr> __
+          "\ <SID>isAtStartOfLine('__') ?
+          "\ '<c-o>:silent! TableModeDisable<cr>' : '__'
