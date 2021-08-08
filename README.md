@@ -10,6 +10,8 @@ NAME | NAME | NAME | NAME | NAME | NAME |
 ---- | ---- | ---- | ---- | ---- | ---- |
 [Motto](/bookmark/motto.md) | [Poem](./poem.md) | [Movies](./movies.md) | [Android](./bookmark/CS/android.md) | [video cs learning](./video_cs_learning.md) | [videos](./videos.md) |
 
+- [just copy writing](./just_copy_writing.md)
+
 
  1. [网站推荐](#网站推荐)
     * [我常用的网站](#我常用的网站)
