@@ -6,9 +6,9 @@
 ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
 [知乎](https://www.zhihu.com/) | [豆瓣](https://www.douban.com/) | [sspai](https://sspai.com/) | [bilibili](https://www.bilibili.com/) | [BD影视](https://www.bd2020.com/) | [Google](https://www.google.com.hk/) | [wikipedia](https://zh.wikipedia.org/wiki/Wikipedia:首页) | [博客园](https://www.cnblogs.com) | [威锋论坛](https://www.feng.com/forum/)
 
-NAME | NAME | NAME | NAME |
----- | ---- | ---- | ---- |
-[Motto](/bookmark/motto.md) | [Poem](./poem.md) | [Movies](./movies.md) | [Android](./bookmark/CS/android.md)
+NAME | NAME | NAME | NAME | NAME |
+---- | ---- | ---- | ---- | ---- |
+[Motto](/bookmark/motto.md) | [Poem](./poem.md) | [Movies](./movies.md) | [Android](./bookmark/CS/android.md) | [video cs learning]() |
 
 
  1. [网站推荐](#网站推荐)
@@ -43,10 +43,17 @@ NAME | NAME | NAME | NAME |
 - [那些遇到的问题](https://qa.1r1g.com/sf/)
 
 ### Resource
-- [lorefree](https://ebook2.lorefree.com)
-- [gutenberg](https://www.gutenberg.org)
-- [无产阶级图书馆](https://sites.google.com/site/proletariatlibrary/home/zhongwenwenxianliebiao)
 
+#### Books
+:shower: | :bicyclist: | :shower: | :bicyclist: |
+---- | ---- | ---- | ---- |
+[jiumo](https://www.jiumodiary.com)| | [lorefree](https://ebook2.lorefree.com) |   |
+[gutenberg](https://www.gutenberg.org) |   | [无产阶级图书馆](https://sites.google.com/site/proletariatlibrary/home/zhongwenwenxianliebiao) |   |
+[java 菜市场](https://www.javaweb.shop) |   |   |   |
+
+#### Movies
+[磁力熊](https://www.cilixiong.com/) |   | [BD影视](https://www.bd2020.com/) |   |
+ 
 ## 博主推荐
 ### computer science
 - [王垠](http://www.yinwang.org/)
