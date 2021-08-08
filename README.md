@@ -1,6 +1,7 @@
 # shareKnowledge
 在这先特别说明，单纯讲计算机，我自觉无力发光。我的提高是借助着前辈们积累起来的经验而实现的，我并没有什么自身的创造。网络上的信息浩如烟海，如果没有方向的指引，很容易迷失，尤其是计算机。我想在这分享我学习计算机的过程中不同的技术积累下来好的连接和经验，希望能够帮助到你。这些积累和经验大部分都不是我的，我只是把它整理出来。
 
+
 - [just copy writing](./just_copy_writing.md)
 - [Motto](/bookmark/motto.md)
 - [Poem](./poem.md)
@@ -20,6 +21,32 @@
 - [博客园](https://www.cnblogs.com)
 - [威锋论坛](https://www.feng.com/forum/)
 
+ 1. [网站推荐](#网站推荐)
+    * [我常用的网站](#我常用的网站)
+ 2. [博主推荐](#博主推荐)
+    * [computer science](#computer-science)
+    * [thinking](#thinking)
+ 3. [文章推荐](#文章推荐)
+    * [学习方法](#学习方法)
+ 4. [RabbitMQ](#rabbitmq)
+ 5. [Git](#git)
+    * [PostgreSQL](#postgresql)
+    * [Mybatis Plus](#mybatis-plus)
+ 6. [Networking](#networking)
+ 7. [vim](#vim)
+    * [markdown](#markdown)
+    * [wiki](#wiki)
+ 8. [Redis](#redis)
+ 9. [virtual machine](#virtual-machine)
+10. [Linux](#linux)
+    * [Shell](#shell)
+      * [zsh](#zsh)
+    * [WSL](#wsl)
+    * [ubuntu](#ubuntu)
+11. [windows](#windows)
+12. [Android](#android)
+13. [crawler](#crawler)
+14. [Github](#github)
 
 
 ## 网站推荐
@@ -46,8 +73,9 @@
 - [小猿大圣](https://hufangyun.com/)
 
 ### thinking
-- [多罗西123](https://space.bilibili.com/375089647)  <br>你的好朋友多罗西，质量有保证滴好up，带你进入独特的精神世界。
-- [Bon](https://bonxg.com) <br>学习型博客
+:shower: | :bicyclist: | :shower: | :bicyclist: |
+---- | ---- | ---- | ---- |
+[多罗西123](https://space.bilibili.com/375089647) | 你的好朋友多罗西，质量有保证滴好up，带你进入独特的精神世界。 | [Bon](https://bonxg.com) | 学习型博客 |
 
 
 ## 文章推荐
@@ -70,7 +98,7 @@
 
 ## Git
 - [我在工作中是如何使用 git 的](https://zhuanlan.zhihu.com/p/391514379)
-	什么是 `rebase` 模式? 
+	什么是 `rebase` 模式
 - [详细介绍git clone --depth=1的用法](https://blog.csdn.net/qq_43827595/article/details/104833980)
 - [Git 多用户配置](https://blog.csdn.net/yuanlaijike/article/details/95650625)
 - [Could not open a connection to your authentication agent](https://blog.csdn.net/argleary/article/details/100638560)
