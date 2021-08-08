@@ -4,7 +4,7 @@
 ## 常用网站
  :octocat: | :earth_africa: | :four_leaf_clover: | :snail: | :clipboard: | :waning_crescent_moon: | :mushroom: | :shower: | :bicyclist: |
 ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
-[知乎](https://www.zhihu.com/) | [豆瓣](https://www.douban.com/) | [sspai](https://sspai.com/) | [bilibili](https://www.bilibili.com/) |
+[知乎](https://www.zhihu.com/) | [豆瓣](https://www.douban.com/) | [sspai](https://sspai.com/) | [bilibili](https://www.bilibili.com/) | [BD影视](https://www.bd2020.com/) | [Google](https://www.google.com.hk/) | [wikipedia](https://zh.wikipedia.org/wiki/Wikipedia:首页) | [博客园](https://www.cnblogs.com) | [威锋论坛](https://www.feng.com/forum/)
 
 NAME | NAME | NAME | NAME |
 ---- | ---- | ---- | ---- |
@@ -42,7 +42,10 @@ NAME | NAME | NAME | NAME |
 ## 网站推荐
 - [那些遇到的问题](https://qa.1r1g.com/sf/)
 
-### 我常用的网站
+### Resource
+- [lorefree](https://ebook2.lorefree.com)
+- [gutenberg](https://www.gutenberg.org)
+- [无产阶级图书馆](https://sites.google.com/site/proletariatlibrary/home/zhongwenwenxianliebiao)
 
 ## 博主推荐
 ### computer science
@@ -53,7 +56,10 @@ NAME | NAME | NAME | NAME |
 - [小猿大圣](https://hufangyun.com/)
 
 ### thinking
-- [多罗西123](https://space.bilibili.com/375089647)
+:shower: | :bicyclist: | :shower: | :bicyclist: |
+---- | ---- | ---- | ---- |
+[多罗西123](https://space.bilibili.com/375089647) | 你的好朋友多罗西，质量有保证滴好up，带你进入独特的精神世界。 | [Bon](https://bonxg.com) | 学习型博客 |
+
 
 ## 文章推荐
 - [互联网是人类历史的一段弯路吗？](https://mp.weixin.qq.com/s/V5Dk4gpzpdb-zsfurp9ZiA)
@@ -156,10 +162,12 @@ git push -u origin --tags
 - [连接另一台电脑的虚拟机](https://blog.csdn.net/u012337114/article/details/79200996)
 这个博客解决我的问题是，如何用一台电脑 `ping` 到另一台电脑的虚拟机，需要将网络模式改为 `桥接模式`
 
+
 ## Linux
 - [完全用 GNU/Linux 工作](https://chusiang.gitbooks.io/working-on-gnu-linux/content/)
 - [the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line/blob/master/README-zh.md)
 - [Linux 中国](https://linux.cn/tech/)
+
 
 ### Shell
 
@@ -184,7 +192,6 @@ git push -u origin --tags
 ### Experience
 - [Windows里在同一个应用不同窗口之间切换的快捷键是什么（对应macOS中Command + ～）？ - 葛聂的回答 - 知乎](https://www.zhihu.com/question/301311007/answer/1635920019)
 
-
 ## crawler
 - [一文带你了解爬虫](https://zhuanlan.zhihu.com/p/70633618)
 - [破14亿，Python分析我国存在哪些人口危机！](https://zhuanlan.zhihu.com/p/105275655)
@@ -193,5 +200,5 @@ git push -u origin --tags
 - [GitHub Markdown语法--图文详解](https://www.jianshu.com/p/8d7325f54ce4)
 - [guodongxiaren/README](https://github.com/guodongxiaren/README)<br>
  README文件语法解读，即Github Flavored Markdown语法介绍
-
+- [github emoji](https://www.webfx.com/tools/emoji-cheat-sheet/)
 
