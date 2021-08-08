@@ -6,9 +6,9 @@
 ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
 [知乎](https://www.zhihu.com/) | [豆瓣](https://www.douban.com/) | [sspai](https://sspai.com/) | [bilibili](https://www.bilibili.com/) | [BD影视](https://www.bd2020.com/) | [Google](https://www.google.com.hk/) | [wikipedia](https://zh.wikipedia.org/wiki/Wikipedia:首页) | [博客园](https://www.cnblogs.com) | [威锋论坛](https://www.feng.com/forum/)
 
-NAME | NAME | NAME | NAME | NAME |
----- | ---- | ---- | ---- | ---- |
-[Motto](/bookmark/motto.md) | [Poem](./poem.md) | [Movies](./movies.md) | [Android](./bookmark/CS/android.md) | [video cs learning](./video_cs_learning.md) |
+NAME | NAME | NAME | NAME | NAME | NAME |
+---- | ---- | ---- | ---- | ---- | ---- |
+[Motto](/bookmark/motto.md) | [Poem](./poem.md) | [Movies](./movies.md) | [Android](./bookmark/CS/android.md) | [video cs learning](./video_cs_learning.md) | [videos](./videos.md) |
 
 
  1. [网站推荐](#网站推荐)
