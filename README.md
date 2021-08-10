@@ -10,19 +10,25 @@
 - [video cs learning](./video_cs_learning.md)
 - [videos](./videos.md)
 
-## 常用网站
+
+
+## frequently use site
 - [知乎](https://www.zhihu.com/)
 - [豆瓣](https://www.douban.com/)
+	- 你可以在上面找到好看的电影，好看的书，豆友们对书影音的讨论
 - [sspai](https://sspai.com/)
+	- 如何通过电子产品，软件让自己的生活变得更好
 - [bilibili](https://www.bilibili.com/)
 - [BD影视](https://www.bd2020.com/)
+	- 你可以在这个网站中下载电影，最好配合与百度网盘一起使用，这个网站上的网盘链接一般不失效
 - [Google](https://www.google.com.hk/)
+	- 如果有条件的话，用它搜索不是更好吗？
 - [wikipedia](https://zh.wikipedia.org/wiki/Wikipedia:首页)
 - [博客园](https://www.cnblogs.com)
 - [威锋论坛](https://www.feng.com/forum/)
 
 
-## 网站推荐
+## site recommand
 - [那些遇到的问题](https://qa.1r1g.com/sf/)
 
 ### Resource
@@ -32,12 +38,12 @@
 - [lorefree](https://ebook2.lorefree.com)
 - [gutenberg](https://www.gutenberg.org)
 - [无产阶级图书馆](https://sites.google.com/site/proletariatlibrary/home/zhongwenwenxianliebiao)
-[java 菜市场](https://www.javaweb.shop)
-
+- [java 菜市场](https://www.javaweb.shop)
 #### Movies
-[磁力熊](https://www.cilixiong.com/) |   | [BD影视](https://www.bd2020.com/) |   |
- 
-## 博主推荐
+- [磁力熊](https://www.cilixiong.com/)
+- [BD影视](https://www.bd2020.com/)
+
+## blogger recommand
 ### computer science
 - [王垠](http://www.yinwang.org/)
 - [羡辙杂俎](http://zhangwenli.com/blog/)
@@ -52,7 +58,7 @@
 	学习型博客
 
 
-## 文章推荐
+## article recommand
 - [互联网是人类历史的一段弯路吗？](https://mp.weixin.qq.com/s/V5Dk4gpzpdb-zsfurp9ZiA)
 - [Teach Yourself Programming in Ten Years](http://norvig.com/21-days.html)
 - [How To Become A Hacker](http://catb.org/~esr/faqs/hacker-howto.html)
@@ -60,7 +66,7 @@
 - [造富神话背后，互联网的那些阴暗面](https://sspai.com/post/64157)
 - [牛街“高龄”程序员的不卷生活](https://36kr.com/p/1030133247018754)
 
-### 学习方法
+### learning methodology
 - [【三万字长文】量子物理学家是如何使用 Anki 的？](https://zhuanlan.zhihu.com/p/65131722?utm_source=cn.wiz.note)
 
 ## RabbitMQ
@@ -92,11 +98,14 @@
 
 ## vim
 - [junegunn/vim-plug](https://github.com/junegunn/vim-plug)<br>
-这个工具是插件管理工具，如果想要安装其他插件，就首先要安装这个插件。
+	- 这个工具是插件管理工具，如果想要安装其他插件，就首先要安装这个插件。
 - [junegunn/fzf](https://github.com/junegunn/fzf) <br>
-安装这个是为了安装`fzf.vim`, 使用这个工具的主要目的是为了在vim中快速切换文件，在根目录下打开vim，使用这个插件就可以搜索切换文件，挺搞笑的。关于在vim中跳转文件，一般就是两种方式，第一种是通过侧边的目录树，另一种方式是通过搜索目录名然后跳转的方式。有些时候，在目录树中移动光标也是需要花费时间的，但是如果你能回忆起你要访问什么文件，它的文件名是什么，那么搜索的速度会很快。从记忆的角度来看，搜索是一个主动回忆的过程，浏览是一个被动回忆的过程。从我的使用经历来看，使用搜索的方式切换文件让我对项目中的文件名和目录更加有印象。
+	- 安装这个是为了安装`fzf.vim`, 使用这个工具的主要目的是为了在vim中快速切换文件，在根目录下打开vim，使用这个插件就可以搜索切换文件，挺高效的。关于在vim中跳转文件，一般就是两种方式，第一种是通过侧边的目录树，另一种方式是通过搜索目录名然后跳转的方式。有些时候，在目录树中移动光标也是需要花费时间的，但是如果你能回忆起你要访问什么文件，它的文件名是什么，那么搜索的速度会很快。从记忆的角度来看，搜索是一个主动回忆的过程，浏览是一个被动回忆的过程。从我的使用经历来看，使用搜索的方式切换文件让我对项目中的文件名和目录更加有印象。
 - [junegunn/fzf.vim](https://github.com/junegunn/fzf.vim) 
 - [vim 宏的使用](https://www.cnblogs.com/xiaodi-js/p/6754834.html)
+	- 宏的使用的具体例子
+		- 如果你要替换一个文本中的一个词，除了可以使用 `replace` 指令之外，还可以使用宏指令
+		- 如果你要在一个文本中，每一行的末尾都添加一些东西，比如在html中添加一个标签，可以使用宏指令
 ### markdown
 - [plasticboy/vim-markdown](https://github.com/plasticboy/vim-markdown)<br>
 安装这个插件的主要目的是因为这个插件里面包含了对 `markdown` 层级的折叠功能
@@ -153,4 +162,19 @@
 - [guodongxiaren/README](https://github.com/guodongxiaren/README)<br>
  README文件语法解读，即Github Flavored Markdown语法介绍
 - [github emoji](https://www.webfx.com/tools/emoji-cheat-sheet/)
+
+## how to get full use of desktop screen area?
+- 任务栏
+	- 自动隐藏任务栏
+	- 隐藏搜索框(右键工具栏->搜索->隐藏)
+
+
+
+
+
+
+
+
+
+
 
