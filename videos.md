@@ -9,3 +9,7 @@
 
 ### 跳高
 - [跳高是这么优雅的运动吗？！张国伟骗了我好久](https://www.bilibili.com/video/BV12L411J7ed)
+
+## sing
+- [《New Boy》房东的猫/陈婧霏【1080P】纯享](https://www.bilibili.com/video/BV1SB4y1N7Dk)
+- [朴 树 《New Boy》](https://www.bilibili.com/video/BV1JK4y1u7yF)
