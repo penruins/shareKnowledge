@@ -183,6 +183,9 @@ password mzrfviwhninayh
 - [如何在 Ubuntu 中检查你的 IP 地址](https://linux.cn/article-11308-1.html)
 ## windows
 - [WIndows10按哪个快捷键把游戏窗口调成全屏？](https://zhidao.baidu.com/question/461165385173161725.html)
+- [Windows & Linux 双平台叛逃记](https://sspai.com/post/66517)
+- [使用 winget 工具安装和管理应用程序](https://docs.microsoft.com/zh-cn/windows/package-manager/winget/)
+	- 包管理工具
 ### tools
 - [Quicker -- 一种全新的Windows效率神器](https://sspai.com/post/47776)
 - [Quicker 官网](https://getquicker.net/)
@@ -195,6 +198,11 @@ password mzrfviwhninayh
 ### Powershell
 - [PowerShell使用教程（转）](https://zhuanlan.zhihu.com/p/88917107)
 - [powershell系列教程](https://zhuanlan.zhihu.com/p/144233019)
+- [超酷的 PowerShell 美化指南](https://zhuanlan.zhihu.com/p/51901035)
+- Powershell 入门指南
+	- [Powershell入门指南·一](https://zhuanlan.zhihu.com/p/60797627)
+	- [PowerShell入门指南·二](https://zhuanlan.zhihu.com/p/60798130)
+	- [PowerShell入门指南(三)·一门新的编程语言](https://zhuanlan.zhihu.com/p/76708298)
 
 ## crawler
 - [一文带你了解爬虫](https://zhuanlan.zhihu.com/p/70633618)
