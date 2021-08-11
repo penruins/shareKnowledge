@@ -1,8 +1,13 @@
 # shareKnowledge
 在这先特别说明，单纯讲计算机，我自觉无力发光。我的提高是借助着前辈们积累起来的经验而实现的，我并没有什么自身的创造。网络上的信息浩如烟海，如果没有方向的指引，很容易迷失，尤其是计算机。我想在这分享我学习计算机的过程中不同的技术积累下来好的连接和经验，希望能够帮助到你。这些积累和经验大部分都不是我的，我只是把它整理出来。
 
-# Question
-- :question: 我在 `vscode`中使用 `vim mode`, 如何解决快捷键冲突的问题？例如我想通过快捷键 `C-b` 因此 `side bar`，但这个快捷键被 `vim` 占用了
+实际上，这个 `repository` 
+
+## Question
+- 我在 `vscode`中使用 `vim mode`, 如何解决快捷键冲突的问题？例如我想通过快捷键 `C-b` 因此 `side bar`，但这个快捷键被 `vim` 占用了
+	- 目前解决的方法
+		- 在 `vsCode` 中 toggle `C-S-P` 输入 command, 通过这种方式来触发 `vsCode` 的 shortcut
+- 如何调节 `vscode` 的行距
 
 
 - [just copy writing](./just_copy_writing.md)
@@ -16,6 +21,13 @@
 
 
 ## frequently use site
+
+### Computer Science
+- [maven repository](https://mvnrepository.com/)
+	- 有些时候 `idea` 自动不全抽风，还是得用 maven repository 来查坐标
+
+
+### Mess
 - [知乎](https://www.zhihu.com/)
 - [豆瓣](https://www.douban.com/)
 	- 你可以在上面找到好看的电影，好看的书，豆友们对书影音的讨论
@@ -29,6 +41,9 @@
 - [wikipedia](https://zh.wikipedia.org/wiki/Wikipedia:首页)
 - [博客园](https://www.cnblogs.com)
 - [威锋论坛](https://www.feng.com/forum/)
+- [滴答清单](https://dida365.com/webapp/)
+- [flomo](https://flomoapp.com/mine)
+- [wolai](https://www.wolai.com/omanw9yDqvpFgMFcTjt3hD)
 
 
 ## site recommand
@@ -72,6 +87,13 @@
 ### learning methodology
 - [【三万字长文】量子物理学家是如何使用 Anki 的？](https://zhuanlan.zhihu.com/p/65131722?utm_source=cn.wiz.note)
 
+## project recommand(github)
+- [mall learning](http://www.macrozheng.com/#/)
+- [ZhongFuCheng3y/3y](https://github.com/ZhongFuCheng3y/3y)
+- [fuzhengwei / small-spring](https://github.com/fuzhengwei/small-spring)
+- [doocs / advanced-java](https://github.com/doocs/advanced-java)
+- [AobingJava / JavaFamily](https://github.com/AobingJava/JavaFamily)
+
 ## RabbitMQ
 - [linux下安装erlang](https://www.cnblogs.com/lr1402585172/p/11453984.html)
 - [Ubuntu18.04安装RabbitMQ(正确安装) 原创](https://my.oschina.net/u/2364788/blog/2875902)
@@ -83,6 +105,16 @@
 ## Database
 - [Navicat Premium 15 永久破解激活工具及安装教程](https://www.jianshu.com/p/523c132006aa)
 ### PostgreSQL
+```
+使用命令行 SQL Shell (psql)
+port 5432
+username postgres
+password mzrfviwhninayh
+列出所有的数据库 \l
+选择数据库 \c 数据库名
+列出所有的table \d
+```
+
 - [Linux 上安装 PostgreSQL](https://www.runoob.com/postgresql/linux-install-postgresql.html)
 - [linux下安装配置连接PostgreSQL](https://blog.csdn.net/nicky_zs/article/details/3618705)
 - [Ubuntu 安装和配置postgresql](https://blog.csdn.net/zpf336/article/details/50843674)<br>
@@ -98,6 +130,11 @@
 
 ### Postman
 - [Postman 测试 WebSocket](https://www.cnblogs.com/dbf-/p/14848674.html)
+	- 好像我使用的 `Postman` 的还不能测试 `WebSocket` 
+
+### websocket
+- [理解WebSocket心跳及重连机制](https://www.cnblogs.com/tugenhua0707/p/8648044.html)
+- [Spring boot集成Websocket,前端监听心跳实现](https://www.cnblogs.com/haoliyou/p/11348645.html)
 
 ## vim
 - [junegunn/vim-plug](https://github.com/junegunn/vim-plug)<br>
@@ -155,6 +192,9 @@
 - [Windows 美化手册](https://sspai.com/topic/182)
 ### Experience
 - [Windows里在同一个应用不同窗口之间切换的快捷键是什么（对应macOS中Command + ～）？ - 葛聂的回答 - 知乎](https://www.zhihu.com/question/301311007/answer/1635920019)
+### Powershell
+- [PowerShell使用教程（转）](https://zhuanlan.zhihu.com/p/88917107)
+- [powershell系列教程](https://zhuanlan.zhihu.com/p/144233019)
 
 ## crawler
 - [一文带你了解爬虫](https://zhuanlan.zhihu.com/p/70633618)
@@ -165,6 +205,21 @@
 - [guodongxiaren/README](https://github.com/guodongxiaren/README)<br>
  README文件语法解读，即Github Flavored Markdown语法介绍
 - [github emoji](https://www.webfx.com/tools/emoji-cheat-sheet/)
+
+## svn
+- [使用TortoiseSVN回滚版本](https://blog.csdn.net/counsellor/article/details/95181981)
+- [SVN 教程 菜鸟](https://www.runoob.com/svn/svn-tutorial.html)
+	- [SVN 简介](https://www.runoob.com/svn/svn-intro.html)
+	- [SVN 安装](https://www.runoob.com/svn/svn-install.html)
+	- [SVN 生命周期](https://www.runoob.com/svn/svn-life-cycle.html)
+	- [SVN 启动模式](https://www.runoob.com/svn/svn-start-mode.html)
+	- [SVN 创建版本库](https://www.runoob.com/svn/svn-create-repo.html)
+	- [TortoiseSVN 使用教程](https://www.runoob.com/svn/tortoisesvn-intro.html)
+- [SVN 中国源代码托管中心](http://www.svnchina.com/)
+- [史上最全SVN 教程](https://www.cnblogs.com/hzb462606/p/9236595.html)
+- [VisualSvn Server安装和使用](https://www.cnblogs.com/jiahuafu/archive/2012/12/22/2828955.html)
+	- 你用 `svn` 的时候，你只需要设置两个东西，第一个是远程仓库的 `url`, 第二个是你 `checkout` 的目录
+- [TortoiseSVN 针对 Windows 平台的 Subversion 客户端](https://tortoisesvn.net/docs/nightly/TortoiseSVN_zh_CN/help-onepage.html#tsvn-dug-general-icons)
 
 ## how to get full use of desktop screen area?
 - 任务栏
