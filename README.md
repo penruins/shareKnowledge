@@ -17,6 +17,7 @@
 - [Android](./bookmark/CS/android.md)
 - [video cs learning](./video_cs_learning.md)
 - [videos](./videos.md)
+- [log](./log.md)
 
 
 
@@ -184,8 +185,15 @@ password mzrfviwhninayh
 ## windows
 - [WIndows10按哪个快捷键把游戏窗口调成全屏？](https://zhidao.baidu.com/question/461165385173161725.html)
 - [Windows & Linux 双平台叛逃记](https://sspai.com/post/66517)
-- [使用 winget 工具安装和管理应用程序](https://docs.microsoft.com/zh-cn/windows/package-manager/winget/)
-	- 包管理工具
+- [将开发环境从 Mac 改为 Windows 的指南](https://docs.microsoft.com/zh-cn/windows/dev-environment/mac-to-windows)
+	- [键盘快捷方式](https://docs.microsoft.com/zh-cn/windows/dev-environment/mac-to-windows#keyboard-shortcuts)
+- 包管理工具
+	- [使用 winget 工具安装和管理应用程序](https://docs.microsoft.com/zh-cn/windows/package-manager/winget/)
+	- [microsoft/winget-cli](https://github.com/microsoft/winget-cli)
+- PowerToys
+	- [安装 PowerToys](https://docs.microsoft.com/zh-cn/windows/powertoys/install)
+	- [唤醒实用工具](https://docs.microsoft.com/zh-cn/windows/powertoys/awake)
+	- [Awake utility](https://docs.microsoft.com/en-us/windows/powertoys/awake)
 ### tools
 - [Quicker -- 一种全新的Windows效率神器](https://sspai.com/post/47776)
 - [Quicker 官网](https://getquicker.net/)
@@ -204,6 +212,15 @@ password mzrfviwhninayh
 	- [PowerShell入门指南·二](https://zhuanlan.zhihu.com/p/60798130)
 	- [PowerShell入门指南(三)·一门新的编程语言](https://zhuanlan.zhihu.com/p/76708298)
 
+### vscode
+- [VScode 自定义设置「settings.json」](https://zhuanlan.zhihu.com/p/217543111)
+- [User and Workspace Settings](https://code.visualstudio.com/docs/getstarted/settings)
+
+#### vim
+- [在VSCode里面配置Vim正确姿势（细节解析）](https://zhuanlan.zhihu.com/p/188499395)
+- [vscodevim](https://marketplace.visualstudio.com/items?itemName=vscodevim.vim)
+
+
 ## crawler
 - [一文带你了解爬虫](https://zhuanlan.zhihu.com/p/70633618)
 - [破14亿，Python分析我国存在哪些人口危机！](https://zhuanlan.zhihu.com/p/105275655)
@@ -213,6 +230,11 @@ password mzrfviwhninayh
 - [guodongxiaren/README](https://github.com/guodongxiaren/README)<br>
  README文件语法解读，即Github Flavored Markdown语法介绍
 - [github emoji](https://www.webfx.com/tools/emoji-cheat-sheet/)
+
+## docker
+- 官网教程
+	- [get started](https://docs.docker.com/get-started/)
+	- [Install Docker Desktop on Windows](https://docs.docker.com/docker-for-windows/install/)
 
 ## svn
 - [使用TortoiseSVN回滚版本](https://blog.csdn.net/counsellor/article/details/95181981)
@@ -228,6 +250,10 @@ password mzrfviwhninayh
 - [VisualSvn Server安装和使用](https://www.cnblogs.com/jiahuafu/archive/2012/12/22/2828955.html)
 	- 你用 `svn` 的时候，你只需要设置两个东西，第一个是远程仓库的 `url`, 第二个是你 `checkout` 的目录
 - [TortoiseSVN 针对 Windows 平台的 Subversion 客户端](https://tortoisesvn.net/docs/nightly/TortoiseSVN_zh_CN/help-onepage.html#tsvn-dug-general-icons)
+
+## Hardware
+### mouse
+- [下载 - G304 LIGHTSPEED 无线游戏鼠标](https://support.logi.com/hc/zh-cn/articles/360024850273)
 
 ## how to get full use of desktop screen area?
 - 任务栏
