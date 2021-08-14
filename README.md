@@ -235,6 +235,10 @@ password mzrfviwhninayh
 - 官网教程
 	- [get started](https://docs.docker.com/get-started/)
 	- [Install Docker Desktop on Windows](https://docs.docker.com/docker-for-windows/install/)
+- [Docker 安装 Redis](https://www.runoob.com/docker/docker-install-redis.html)
+	- [docker redis image](https://hub.docker.com/_/redis?tab=tags&page=1&ordering=last_updated)
+- [docker 设置国内镜像源](https://blog.csdn.net/whatday/article/details/86770609)
+
 
 ## svn
 - [使用TortoiseSVN回滚版本](https://blog.csdn.net/counsellor/article/details/95181981)
