@@ -18,6 +18,7 @@
 - [video cs learning](./video_cs_learning.md)
 - [videos](./videos.md)
 - [log](./log.md)
+- [second training](./second_training.md)
 
 
 
@@ -170,6 +171,9 @@ password mzrfviwhninayh
 - [the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line/blob/master/README-zh.md)
 - [Linux 中国](https://linux.cn/tech/)
 
+### command
+- [nuhop命令](https://www.cnblogs.com/davion2017/p/12513294.html)
+
 
 ### Shell
 
@@ -182,6 +186,9 @@ password mzrfviwhninayh
 - [设置 WSL 开发环境最佳做法](https://docs.microsoft.com/zh-cn/windows/wsl/setup/environment)
 ### ubuntu
 - [如何在 Ubuntu 中检查你的 IP 地址](https://linux.cn/article-11308-1.html)
+### ftp
+- [vsftpd的安装和使用](https://blog.csdn.net/qq_36938617/article/details/89077845)
+- [Ubuntu 16.04下vsftpd 安装配置实例（ftp服务器搭建）](https://blog.csdn.net/hanyuyang19940104/article/details/80421632)
 ## windows
 - [WIndows10按哪个快捷键把游戏窗口调成全屏？](https://zhidao.baidu.com/question/461165385173161725.html)
 - [Windows & Linux 双平台叛逃记](https://sspai.com/post/66517)
@@ -237,7 +244,12 @@ password mzrfviwhninayh
 	- [Install Docker Desktop on Windows](https://docs.docker.com/docker-for-windows/install/)
 - [Docker 安装 Redis](https://www.runoob.com/docker/docker-install-redis.html)
 	- [docker redis image](https://hub.docker.com/_/redis?tab=tags&page=1&ordering=last_updated)
+- command
+	- [Docker run 命令](https://www.runoob.com/docker/docker-run-command.html)
 - [docker 设置国内镜像源](https://blog.csdn.net/whatday/article/details/86770609)
+- [Docker搭建FTP服务器](https://www.cnblogs.com/davion2017/p/13172099.html)
+- [使用docker安装vsftpd(非常简单)](https://blog.csdn.net/Wsl_Cn/article/details/112592999)
+- [在windows服务器下 使用docker容器搭建vsftpd服务器](https://blog.csdn.net/APPLEHU09/article/details/108084118)
 
 
 ## svn
@@ -254,6 +266,12 @@ password mzrfviwhninayh
 - [VisualSvn Server安装和使用](https://www.cnblogs.com/jiahuafu/archive/2012/12/22/2828955.html)
 	- 你用 `svn` 的时候，你只需要设置两个东西，第一个是远程仓库的 `url`, 第二个是你 `checkout` 的目录
 - [TortoiseSVN 针对 Windows 平台的 Subversion 客户端](https://tortoisesvn.net/docs/nightly/TortoiseSVN_zh_CN/help-onepage.html#tsvn-dug-general-icons)
+
+## Chrome
+- [Octotree实用工具推荐GitHub/GitLab 代码结构浏览插件](https://blog.csdn.net/a454213722/article/details/53308630)
+- plugins
+	- [SpanTree - GitLab Tree](https://chrome.google.com/webstore/detail/spantree-gitlab-tree/gcjikeldobhnaglcoaejmdlmbienoocg?hl=zh-CN)
+	- [Octotree - GitHub code tree](https://chrome.google.com/webstore/detail/octotree-github-code-tree/bkhaagjahfmjljalopjnoealnfndnagc/related?hl=zh-CN)
 
 ## Hardware
 ### mouse
