@@ -19,6 +19,7 @@
 - [videos](./videos.md)
 - [log](./log.md)
 - [second training](./second_training.md)
+- [English](./English.md)
 
 
 
@@ -27,6 +28,7 @@
 ### Computer Science
 - [maven repository](https://mvnrepository.com/)
 	- 有些时候 `idea` 自动不全抽风，还是得用 maven repository 来查坐标
+- [stackoverflow](https://stackoverflow.com/)
 
 
 ### Mess
@@ -106,6 +108,7 @@
 
 ## Database
 - [Navicat Premium 15 永久破解激活工具及安装教程](https://www.jianshu.com/p/523c132006aa)
+### SQL
 ### PostgreSQL
 ```
 使用命令行 SQL Shell (psql)
@@ -119,10 +122,14 @@ password mzrfviwhninayh
 
 - [Linux 上安装 PostgreSQL](https://www.runoob.com/postgresql/linux-install-postgresql.html)
 - [linux下安装配置连接PostgreSQL](https://blog.csdn.net/nicky_zs/article/details/3618705)
-- [Ubuntu 安装和配置postgresql](https://blog.csdn.net/zpf336/article/details/50843674)<br>
-如何开启postgresql的全网段监听，以及开启密码验证<br>
-- [ubuntu18.04安装和配置postgresql](https://blog.csdn.net/ximen120/article/details/104721317)<br>
-解决了如何重启`postgresql` 它是通过 `apt-get` 安装的
+- [Ubuntu 安装和配置postgresql](https://blog.csdn.net/zpf336/article/details/50843674)
+	- 如何开启postgresql的全网段监听，以及开启密码验证<br>
+- [ubuntu18.04安装和配置postgresql](https://blog.csdn.net/ximen120/article/details/104721317)
+	- 解决了如何重启`postgresql` 它是通过 `apt-get` 安装的
+- postgreSQL 如何进行分页查询?
+	- [PostgreSQL LIMIT 子句](https://www.runoob.com/postgresql/postgresql-limit.html)
+	- 可以参考这个网页，在 `oracle` 和 `mysql` 上进行分页查询
+		- [sql查询（三）之分页查询](https://www.cnblogs.com/lqhhome/p/10913216.html)
 
 ### Mybatis Plus
 - [MyBatis-Plus 用起来真的很舒服](https://www.cnblogs.com/l-y-h/p/12859477.html)
@@ -160,6 +167,9 @@ password mzrfviwhninayh
 - [Ubuntu安装Redis及使用](https://blog.csdn.net/hzlarm/article/details/99432240)
 - [Ubuntu安装Redis及测试](https://blog.csdn.net/qq_24326765/article/details/81917137)
 - [ubuntu Redis安装测试、设置用户名密码](https://blog.csdn.net/zhangaik/article/details/79279418)
+
+## Springboot
+- [knife4j 简单使用](https://blog.csdn.net/yanzhenjingfan/article/details/110467945)
 
 ## virtual machine
 - [连接另一台电脑的虚拟机](https://blog.csdn.net/u012337114/article/details/79200996)
@@ -227,6 +237,9 @@ password mzrfviwhninayh
 - [在VSCode里面配置Vim正确姿势（细节解析）](https://zhuanlan.zhihu.com/p/188499395)
 - [vscodevim](https://marketplace.visualstudio.com/items?itemName=vscodevim.vim)
 
+### service
+- [windows10本地搭建FTP服务器](https://blog.csdn.net/weixin_37554536/article/details/83892709)
+
 
 ## crawler
 - [一文带你了解爬虫](https://zhuanlan.zhihu.com/p/70633618)
@@ -246,12 +259,17 @@ password mzrfviwhninayh
 	- [docker redis image](https://hub.docker.com/_/redis?tab=tags&page=1&ordering=last_updated)
 - command
 	- [Docker run 命令](https://www.runoob.com/docker/docker-run-command.html)
+	- [docker run -it 和 docker exec -it](https://blog.csdn.net/wdadas/article/details/107129528)
 - [docker 设置国内镜像源](https://blog.csdn.net/whatday/article/details/86770609)
 - FTP
 	- [Docker搭建FTP服务器](https://www.cnblogs.com/davion2017/p/13172099.html)
 	- [使用docker安装vsftpd(非常简单)](https://blog.csdn.net/Wsl_Cn/article/details/112592999)
+		- 这个终于成功了
 	- [在windows服务器下 使用docker容器搭建vsftpd服务器](https://blog.csdn.net/APPLEHU09/article/details/108084118)
 	- [fauria/docker-vsftpd](https://github.com/fauria/docker-vsftpd)
+- postgreSQL
+	- [Docker搭建Postgresql数据库](https://blog.csdn.net/yetyrain/article/details/105642488)
+	- [Windows下docker安装 postgresql12.0](https://blog.csdn.net/qq_42729486/article/details/106387185)
 
 
 ## svn
@@ -268,6 +286,10 @@ password mzrfviwhninayh
 - [VisualSvn Server安装和使用](https://www.cnblogs.com/jiahuafu/archive/2012/12/22/2828955.html)
 	- 你用 `svn` 的时候，你只需要设置两个东西，第一个是远程仓库的 `url`, 第二个是你 `checkout` 的目录
 - [TortoiseSVN 针对 Windows 平台的 Subversion 客户端](https://tortoisesvn.net/docs/nightly/TortoiseSVN_zh_CN/help-onepage.html#tsvn-dug-general-icons)
+- software
+	- []()
+Mac 上最好用的 SVN 客户端是什么？ - Nate的回答 - 知乎
+https://www.zhihu.com/question/19705164/answer/1857424458
 
 ## Chrome
 - [Octotree实用工具推荐GitHub/GitLab 代码结构浏览插件](https://blog.csdn.net/a454213722/article/details/53308630)
