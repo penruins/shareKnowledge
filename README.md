@@ -8,6 +8,14 @@
 	- 目前解决的方法
 		- 在 `vsCode` 中 toggle `C-S-P` 输入 command, 通过这种方式来触发 `vsCode` 的 shortcut
 - 如何调节 `vscode` 的行距
+- 如何在`spring boot` 应用启动前运行一段代码? 
+- `PowerToys` 能如何提高你的工作效率?
+    - 可以解决上下分屏
+- 如何关闭电脑的自启动项？
+- 在 `windows` 上如何快速切换应用
+    - 将特定应用固定在任务栏，然后按 `win + number`
+- 在 `windows` 中如何录像
+    - `win + g`
 
 
 - [just copy writing](./just_copy_writing.md)
