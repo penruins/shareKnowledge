@@ -169,7 +169,14 @@ password mzrfviwhninayh
 - [ubuntu Redis安装测试、设置用户名密码](https://blog.csdn.net/zhangaik/article/details/79279418)
 
 ## Springboot
-- [knife4j 简单使用](https://blog.csdn.net/yanzhenjingfan/article/details/110467945)
+- 文档 
+	- [knife4j 简单使用](https://blog.csdn.net/yanzhenjingfan/article/details/110467945)
+- 日志
+	- [Spring Boot配置log4j记录日志](https://blog.csdn.net/zzq900503/article/details/87629782)
+	- [Spring Boot 日志配置(超详细)](https://blog.csdn.net/inke88/article/details/75007649)
+	- slf4j
+		- [Springboot使用slf4j记录日志](https://blog.csdn.net/zhuzhezhuzhe1/article/details/80557251)
+		- [第七节，Springboot日志配置SLF4J](https://cloud.tencent.com/developer/article/1360697)
 
 ## virtual machine
 - [连接另一台电脑的虚拟机](https://blog.csdn.net/u012337114/article/details/79200996)
@@ -183,6 +190,12 @@ password mzrfviwhninayh
 
 ### command
 - [nuhop命令](https://www.cnblogs.com/davion2017/p/12513294.html)
+- sed
+	- [Linux sed 命令](https://www.runoob.com/linux/linux-comm-sed.html)
+	- [sed -i命令详解及入门攻略](https://blog.csdn.net/qq_33468857/article/details/84324609)
+- grep
+	- [ps -ef|grep详解](https://www.cnblogs.com/freinds/p/8074651.html)
+	- [linux 中grep -v 命令](https://www.jianshu.com/p/6650c363b0af)
 
 
 ### Shell
