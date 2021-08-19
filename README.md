@@ -16,6 +16,8 @@
     - 将特定应用固定在任务栏，然后按 `win + number`
 - 在 `windows` 中如何录像
     - `win + g`
+		- 有点问题
+	- OBS
 
 
 - [just copy writing](./just_copy_writing.md)
