@@ -29,6 +29,9 @@
 - [30 seconds of code](https://www.30secondsofcode.org/)
 - [高质量Java英文博客](https://blog.csdn.net/ejinxian/article/details/24496645)
 
+## 视频分享
+- [计时赛中的个人魅力](https://b23.tv/wK2k3mJ)
+
 
 ## Question
 - 我在 `vscode`中使用 `vim mode`, 如何解决快捷键冲突的问题？例如我想通过快捷键 `C-b` 因此 `side bar`，但这个快捷键被 `vim` 占用了
