@@ -8,6 +8,9 @@
 ## Goal
 - 能均速30码环滇池
 
+## History
+- 2021年7月2日 第一份工作报道
+
 ## 有趣的文章
 - [美团技术团队](https://tech.meituan.com/)
 - [中文独立博客列表](https://github.com/timqian/chinese-independent-blogs)
