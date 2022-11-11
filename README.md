@@ -4,16 +4,13 @@
 
 > “有人说像我们这样的人是理想主义者，总是想着一些不着边际的事情，但我要第一万次的说：是的我们就是这样的人”  -- Che Guevara
 
-在这先特别说明，单纯讲计算机，我自觉无力发光。我的提高是借助着前辈们积累起来的经验而实现的，我并没有什么自身的创造。网络上的信息浩如烟海，如果没有方向的指引，很容易迷失，尤其是计算机。我想在这分享我学习计算机的过程中不同的技术积累下来好的连接和经验，希望能够帮助到你。这些积累和经验大部分都不是我的，我只是把它整理出来。
-
 ## 有趣的文章
-- 2022-11-08 [美团技术团队](https://tech.meituan.com/)
-- 2022-11-08 [中文独立博客列表](https://github.com/timqian/chinese-independent-blogs)
-- 2022-11-08 [互联网公司常用框架源码赏析](https://github.com/doocs/source-code-hunter)
+- [美团技术团队](https://tech.meituan.com/)
+- [中文独立博客列表](https://github.com/timqian/chinese-independent-blogs)
+- [互联网公司常用框架源码赏析](https://github.com/doocs/source-code-hunter)
 - [30 seconds of code](https://www.30secondsofcode.org/)
 - [高质量Java英文博客](https://blog.csdn.net/ejinxian/article/details/24496645)
 
-实际上，这个 `repository` 
 
 ## Question
 - 我在 `vscode`中使用 `vim mode`, 如何解决快捷键冲突的问题？例如我想通过快捷键 `C-b` 因此 `side bar`，但这个快捷键被 `vim` 占用了
