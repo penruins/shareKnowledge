@@ -22,6 +22,17 @@
 - [互联网公司常用框架源码赏析](https://github.com/doocs/source-code-hunter)
 - [30 seconds of code](https://www.30secondsofcode.org/)
 - [高质量Java英文博客](https://blog.csdn.net/ejinxian/article/details/24496645)
+- [互联网是人类历史的一段弯路吗？](https://mp.weixin.qq.com/s/V5Dk4gpzpdb-zsfurp9ZiA)
+- [Teach Yourself Programming in Ten Years](http://norvig.com/21-days.html)
+- [How To Become A Hacker](http://catb.org/~esr/faqs/hacker-howto.html)
+- [【三万字长文】量子物理学家是如何使用 Anki 的？](https://zhuanlan.zhihu.com/p/65131722?utm_source=cn.wiz.note)
+ 
+## project recommand(github)
+- [mall learning](http://www.macrozheng.com/#/)
+- [ZhongFuCheng3y/3y](https://github.com/ZhongFuCheng3y/3y)
+- [fuzhengwei / small-spring](https://github.com/fuzhengwei/small-spring)
+- [doocs / advanced-java](https://github.com/doocs/advanced-java)
+- [AobingJava / JavaFamily](https://github.com/AobingJava/JavaFamily)
 
 ## 视频分享
 - [计时赛中的个人魅力](https://b23.tv/wK2k3mJ)
